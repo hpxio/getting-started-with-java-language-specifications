@@ -1,0 +1,119 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StreamOfMethod",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.streams.StreamOfMethod",
+      "projectName": "GettingStartedWithJavaLanguageSpecifications"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StreamToArrayMethod",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.streams.StreamToArrayMethod",
+      "projectName": "GettingStartedWithJavaLanguageSpecifications"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StreamForEachMethod",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.streams.StreamForEachMethod",
+      "projectName": "GettingStartedWithJavaLanguageSpecifications"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StreamMinMaxMethod",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.streams.StreamMinMaxMethod",
+      "projectName": "GettingStartedWithJavaLanguageSpecifications"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StreamSortedMethod",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.streams.StreamSortedMethod",
+      "projectName": "GettingStartedWithJavaLanguageSpecifications"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StreamCountMethod",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.streams.StreamCountMethod",
+      "projectName": "GettingStartedWithJavaLanguageSpecifications"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StreamMapMethod",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.streams.StreamMapMethod",
+      "projectName": "GettingStartedWithJavaLanguageSpecifications"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SimpleStreamDemo",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.streams.SimpleStreamDemo",
+      "projectName": "GettingStartedWithJavaLanguageSpecifications"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StaticMethodReference",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.methodReferences.StaticMethodReference",
+      "projectName": "GettingStartedWithJava8"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - staticMethodReference",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.methodReferences.staticMethodReference",
+      "projectName": "GettingStartedWithJava8"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SupplierWithSets",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.functionalInterface.supplierInterface.SupplierWithSets",
+      "projectName": "GettingStartedWithJava8"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SimpleSupplierOperation",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.functionalInterface.supplierInterface.SimpleSupplierOperation",
+      "projectName": "GettingStartedWithJava8"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SimpleConsumerOperation",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.functionalInterface.consumerInterface.SimpleConsumerOperation",
+      "projectName": "GettingStartedWithJava8"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - FunctionOnList",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.functionalInterface.functionInterface.FunctionOnList",
+      "projectName": "GettingStartedWithJava8"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - FunctionWithStrings",
+      "request": "launch",
+      "mainClass": "com.app.rc.GettingStartedWithJava8.functionalInterface.functionInterface.FunctionWithStrings",
+      "projectName": "GettingStartedWithJava8"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}
